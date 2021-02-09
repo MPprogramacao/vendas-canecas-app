@@ -1,1 +1,1 @@
-Tela inicial do app
+console.log("Olá")
